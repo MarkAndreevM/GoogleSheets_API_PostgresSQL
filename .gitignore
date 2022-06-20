@@ -1,7 +1,8 @@
 # это системная папка для IDE
 .idea/
 venv/
+.git
 
 # Хранит приватные данные (ключи, ID и тп)
 keys.json
-config.py
+config_project/config.py

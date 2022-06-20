@@ -1,0 +1,6 @@
+psycopg2~=2.9.3
+pycbrf~=1.1.0
+google-api-python-client~=2.51.0
+google-auth-httplib2~=0.1.0
+google-auth-oauthlib~=0.5.2
+google~=3.0.0
