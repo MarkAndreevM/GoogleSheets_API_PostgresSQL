@@ -2,10 +2,6 @@ from pycbrf.toolbox import ExchangeRates  # Обменные курсы валю
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
-
-from psycopg2.errorcodes import UNIQUE_VIOLATION
-from psycopg2 import errors
-
 from data_base_PSQL.data_base import sql_delete_task, sql_add_line
 
 import datetime
