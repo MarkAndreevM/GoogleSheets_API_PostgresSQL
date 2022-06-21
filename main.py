@@ -116,10 +116,6 @@ while True:
 
 
 
-
-
-
-
 # sql_start()
 # data_cache = {}
 # # d = {i[1]:(i[0],i[2],i[3]) for i in result[1:]}  # Создаем словарь, где ключ - это номер заказа
