@@ -15,22 +15,11 @@ Essence of the project:
      - Download the JSON file.
      - Copy the JSON file to put into ./config_project and rename it to `keys.json`
      - Create a new google sheet
-     - Share the sheet with the email in your GoogleSheets table
-<br> 
-<br> 
-<br> 
+     - Share the sheet with the email in your GoogleSheets table <br> <br>
 
-2. Rename `your_config.py` to `config.py` and past your
-<br>
-<br>
-
-3. Copy the GoogleSheets ID in the format `1zWDJZ_DQG79EazUb-jrRSLxq7orM58TZmVrr1TZq_SF` and put into ./config_project/config.py to the variable SAMPLE_SPREADSHEET_ID
-<br>
-<br>
-
-4. Install `requirements.txt`
-<br>
-<br>
+2. Rename `your_config.py` to `config.py` and past your <br> <br>
+3. Copy the GoogleSheets ID in the format `1zWDJZ_DQG79EazUb-jrRSLxq7orM58TZmVrr1TZq_SF` and put into ./config_project/config.py to the variable SAMPLE_SPREADSHEET_ID <br> <br>
+4. Install `requirements.txt` <br> <br>
 5. Start the project `main.py`
 
 
