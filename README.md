@@ -33,6 +33,6 @@ Essence of the project:
 
 
 
-### <center>link to my spreadsheet: <br>
+### <center> link to my spreadsheet:
 
 `https://docs.google.com/spreadsheets/d/1zWDJZ_SQG89EazUb-jrRALxq8orM58RZmVrr1TZq_PE/edit#gid=0`
