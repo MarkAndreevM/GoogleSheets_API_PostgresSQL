@@ -23,6 +23,6 @@ Essence of the project:
 5. Start the project `main.py`
 
 
-###                             <center>link to my spreadsheet:
+### <center>link to my spreadsheet:
 
 `https://docs.google.com/spreadsheets/d/1zWDJZ_SQG89EazUb-jrRALxq8orM58RZmVrr1TZq_PE/edit#gid=0`
