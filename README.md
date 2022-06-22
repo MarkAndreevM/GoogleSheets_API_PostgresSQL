@@ -1,4 +1,4 @@
-# <br>WIP!<br> GoogleSheets_API_PostgreSQL
+#WIP!<br> GoogleSheets_API_PostgreSQL
 Essence of the project:
 <br>Data request via API in GoogleSheets tables. Synchronizing Google Spreadsheets in PostgreSQL
 
@@ -32,9 +32,7 @@ Essence of the project:
 5. Start the project `main.py`
 
 
-<br>
-<br>
 
-###<center>link to my spreadsheet: <br>
+### <center>link to my spreadsheet: <br>
 
 `https://docs.google.com/spreadsheets/d/1zWDJZ_SQG89EazUb-jrRALxq8orM58RZmVrr1TZq_PE/edit#gid=0`
