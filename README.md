@@ -18,6 +18,8 @@ Essence of the project:
      - Share the sheet with the email in your GoogleSheets table
 <br> 
 <br> 
+<br> 
+
 2. Rename `your_config.py` to `config.py` and past your
 <br>
 <br>
